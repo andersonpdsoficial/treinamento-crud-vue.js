@@ -1,2 +1,2 @@
-# treinamento-vue.js
+# treinamento-CRUD-vue.js
  Treinamento de vue.js
